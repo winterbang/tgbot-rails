@@ -76,8 +76,10 @@ module Tgbot
   end
 end
 ```
-> 注： 回调方法返回的数据格式可以参考[`Telegram API`](https://core.telegram.org/bots/api#sendmessage)
-
+> Tips：
+ - 回调方法返回的数据格式可以参考[`Telegram API`](https://core.telegram.org/bots/api#sendmessage)
+ - Telegram 要求配置的webhook必须是https协议，可以使用
+ [`ngrok`](https://ngrok.com/)在本地调试开发
 
 
 ## Contributing

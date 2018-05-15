@@ -1,4 +1,5 @@
 # TgbotRails
+<!-- [中文文档 Chinese document](/README-CN.md) -->
 A telegram bot for rails.
 
 ## Installation
@@ -94,3 +95,6 @@ If there is any thing you'd like to contribute or fix, please:
 
 ## License
 The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+
+## Group
+欢迎加入[`Telegram ruby 群`](tg://join?invite=DT4gRA5methtroPJ-lIYKQ)
